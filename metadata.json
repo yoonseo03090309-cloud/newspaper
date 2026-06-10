@@ -1,0 +1,6 @@
+{
+  "name": "어린이 역사 신문 만들기",
+  "description": "초등학교 5학년 학생들의 역사 탐구 내용을 바탕으로 다정한 AI 편집장과 함께 세상에 하나뿐인 인터랙티브 웹 역사 신문을 제작하는 교육용 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
